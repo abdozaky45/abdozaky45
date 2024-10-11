@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdulrahman mohamed zaki</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
-(img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/farhan-nahid/farhan-nahid/main/farhan-nahid.gif")
+(img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/farhan-nahid/farhan-nahid/main/farhan-nahid.gif](https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif)")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdozaky45&label=Profile%20views&color=0e75b6&style=flat" alt="abdozaky45" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdozaky45?tab=repositories](https://github.com/abdozaky45?tab=repositories)
