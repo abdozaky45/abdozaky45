@@ -12,7 +12,11 @@
 
 - 📫 How to reach me **aa1066649@gmail.com**
 
-- ⚡ Fun fact **🌍 I love traveling and exploring new places! 🏋️‍♂️ I enjoy sports and staying active. 📚 I'm passionate about acquiring new skills and knowledge. 🤝 I thrive in team environments and enjoy collaborating with others!**
+- ⚡ **Fun Fact:**
+- 🌍 I love traveling and exploring new places!
+- 🏋️‍♂️ I enjoy sports and staying active.
+- 📚 I'm passionate about acquiring new skills and knowledge.
+- 🤝 I thrive in team environments and enjoy collaborating with others!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
