@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman mohamed zaki</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdozaky45&label=Profile%20views&color=0e75b6&style=flat" alt="abdozaky45" /> </p>
+<div style="text-align: center;">
+    <img alt="Coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
+</div>
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdozaky45?tab=repositories](https://github.com/abdozaky45?tab=repositories)
 
