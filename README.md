@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman mohamed zaki</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
- <img alt="Coding" width="400" src="https://raw.githubusercontent.com/farhan-nahid/farhan-nahid/main/farhan-nahid.gif">
+<div style="text-align: center;">
+    <img alt="Coding" width="400" src="https://raw.githubusercontent.com/farhan-nahid/farhan-nahid/main/farhan-nahid.gif">
+</div>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdozaky45?tab=repositories](https://github.com/abdozaky45?tab=repositories)
