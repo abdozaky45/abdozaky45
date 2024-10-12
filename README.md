@@ -1,3 +1,4 @@
+![Cover Photo](https://raw.githubusercontent.com/yoavain/create-windowless-app/main/resources/docs/logo.gif)
 <h1 align="center">Hi 👋, I'm Abdulrahman mohamed zaki</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 <div style="text-align: center;">
