@@ -1,9 +1,9 @@
 ![Cover Photo](https://raw.githubusercontent.com/yoavain/create-windowless-app/main/resources/docs/logo.gif)
 <h1 align="center">Hi 👋, I'm Abdulrahman mohamed zaki</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
-<div style="text-align: center;">
+<p align="center">
     <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</div>
+</p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdozaky45?tab=repositories](https://github.com/abdozaky45?tab=repositories)
